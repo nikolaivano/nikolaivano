@@ -2,8 +2,8 @@
 
 I started my journey in programming as a self-thought coder. Over the years, I've become passionate about developing and coding web apps. Besides coding, I like going to gym, cycling, making music and traveling.
 
-💻 - [ivanovski.dev](https://ivanovski.dev)
-💬 - ivanovskinicola@gmail.com
+* 💻 - [ivanovski.dev](https://ivanovski.dev)
+* 💬 - ivanovskinicola@gmail.com
 
 <!---
 nikolaivano/nikolaivano is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
